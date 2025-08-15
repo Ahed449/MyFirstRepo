@@ -1,0 +1,1 @@
+I learned basic Git commands: how to clone a repo, create files, commit changes, and push to GitHub. I also practiced forking and creating pull requests.
